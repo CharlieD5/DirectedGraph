@@ -1,0 +1,12 @@
+bullets ore
+bombs ore
+handgun bullets
+turret bullets
+rpg missiles
+missiles ore
+person minigun
+person handgun
+person bombs
+person rpg
+minigun bullets
+lasergun laser
